@@ -4,6 +4,8 @@ FastAPI back-end with user registration/login and full BREAD calculation endpoin
 
 ## Docker Hub
 
+**Repository:** https://hub.docker.com/r/kushyarwar/is601-module12
+
 **Image:** `kushyarwar/is601-module12:latest`
 
 Pull and run:
