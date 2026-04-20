@@ -15,6 +15,26 @@ docker run -p 8000:8000 -e DATABASE_URL=<your-postgres-url> kushyarwar/is601-mod
 
 ---
 
+## Screenshots
+
+### GitHub Actions – CI/CD Pipeline Passing
+
+![GitHub Actions](Screenshots/1.png)
+
+### User Registration (POST /users/register)
+
+![User Registration](Screenshots/2.png)
+
+### User Login (POST /users/login)
+
+![User Login](Screenshots/3.png)
+
+### Add Calculation (POST /calculations/)
+
+![Add Calculation](Screenshots/4.png)
+
+---
+
 ## Running the Application Locally (Docker Compose)
 
 ```bash
